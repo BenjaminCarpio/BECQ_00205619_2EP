@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Benjamin\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Benjamin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_SourceCode.1109225429.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Benjamin\RiderProjects\SourceCode" t="IncludeRecursive">
+      <e p="AddLocation.cs" t="Include" />
+      <e p="AddLocation.Designer.cs" t="Include" />
+      <e p="AddLocation.resx" t="Include" />
+      <e p="AddNegocio.cs" t="Include" />
+      <e p="AddNegocio.Designer.cs" t="Include" />
+      <e p="AddNegocio.resx" t="Include" />
+      <e p="Adress.cs" t="Include" />
+      <e p="AdressDAO.cs" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Buisness.cs" t="Include" />
+      <e p="BuisnessDAO.cs" t="Include" />
+      <e p="BuisnessList.cs" t="Include" />
+      <e p="BuisnessList.Designer.cs" t="Include" />
+      <e p="BuisnessList.resx" t="Include" />
+      <e p="ChangePassword.cs" t="Include" />
+      <e p="ChangePassword.Designer.cs" t="Include" />
+      <e p="ChangePassword.resx" t="Include" />
+      <e p="ConnectionDB.cs" t="Include" />
+      <e p="CreateAccount.cs" t="Include" />
+      <e p="CreateAccount.Designer.cs" t="Include" />
+      <e p="CreateAccount.resx" t="Include" />
+      <e p="CreateUser.cs" t="Include" />
+      <e p="CreateUser.Designer.cs" t="Include" />
+      <e p="CreateUser.resx" t="Include" />
+      <e p="DeleteBuisness.cs" t="Include" />
+      <e p="DeleteBuisness.Designer.cs" t="Include" />
+      <e p="DeleteBuisness.resx" t="Include" />
+      <e p="DeleteLocation.cs" t="Include" />
+      <e p="DeleteLocation.Designer.cs" t="Include" />
+      <e p="DeleteLocation.resx" t="Include" />
+      <e p="DeleteUser.cs" t="Include" />
+      <e p="DeleteUser.Designer.cs" t="Include" />
+      <e p="DeleteUser.resx" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="ListaDePedidos.cs" t="Include" />
+      <e p="ListaDePedidos.Designer.cs" t="Include" />
+      <e p="ListaDePedidos.resx" t="Include" />
+      <e p="Login.cs" t="Include" />
+      <e p="Login.Designer.cs" t="Include" />
+      <e p="Login.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Order.cs" t="Include" />
+      <e p="OrderDAO.cs" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="PrincipalForm.cs" t="Include" />
+      <e p="PrincipalForm.Designer.cs" t="Include" />
+      <e p="PrincipalForm.resx" t="Include" />
+      <e p="Product.cs" t="Include" />
+      <e p="ProductDAO.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="_29397a2d_dec7_461e_a5b4_d2a547f2e293.jpg" t="Include" />
+        <e p="_29397a2d_dec7_461e_a5b4_d2a547f2e2931.jpg" t="Include" />
+        <e p="_5bbca6eb0e674.jpg" t="Include" />
+        <e p="WhatsApp_Image_2020_05_27_at_11.jpeg" t="Include" />
+        <e p="WhatsApp_Image_2020_05_27_at_3.jpeg" t="Include" />
+      </e>
+      <e p="SourceCode.csproj" t="IncludeRecursive" />
+      <e p="SourceCode.sln" t="IncludeFlat" />
+      <e p="Ubicacion.cs" t="Include" />
+      <e p="Ubicacion.Designer.cs" t="Include" />
+      <e p="Ubicacion.resx" t="Include" />
+      <e p="UnreachedMinimumNumberOfCharacters.cs" t="Include" />
+      <e p="User.cs" t="Include" />
+      <e p="UserDAO.cs" t="Include" />
+      <e p="UserList.cs" t="Include" />
+      <e p="UserList.Designer.cs" t="Include" />
+      <e p="UserList.resx" t="Include" />
+      <e p="Verpedidos.cs" t="Include" />
+      <e p="Verpedidos.Designer.cs" t="Include" />
+      <e p="Verpedidos.resx" t="Include" />
+    </e>
+  </component>
+</project>

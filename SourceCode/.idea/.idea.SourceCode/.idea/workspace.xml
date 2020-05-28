@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a689aa1-3a54-4ec6-afe6-674c367ed4cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CreateAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Verpedidos.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CreateAccount.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Verpedidos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PrincipalForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CreateUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PrincipalForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CreateUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ubicacion.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ubicacion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ListaDePedidos.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ListaDePedidos.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserList.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChangePassword.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Buisness.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChangePassword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Order.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProductDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BuisnessDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UnreachedMinimumNumberOfCharacters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdressDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Adress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteLocation.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddLocation.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddLocation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteBuisness.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DeleteBuisness.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BuisnessList.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BuisnessList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddNegocio.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddNegocio.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Form1.Designer.cs" />
+        <option value="$PROJECT_DIR$/ConnectionDB.cs" />
+        <option value="$PROJECT_DIR$/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/CreateAccount.Designer.cs" />
+        <option value="$PROJECT_DIR$/UnreachedMinimumNumberOfCharacters.cs" />
+        <option value="$PROJECT_DIR$/CreateUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/UserList.Designer.cs" />
+        <option value="$PROJECT_DIR$/Local.cs" />
+        <option value="$PROJECT_DIR$/ListaDePedidos.Designer.cs" />
+        <option value="$PROJECT_DIR$/Ubicacion.cs" />
+        <option value="$PROJECT_DIR$/Ubicacion.Designer.cs" />
+        <option value="$PROJECT_DIR$/Verpedidos.Designer.cs" />
+        <option value="$PROJECT_DIR$/BuisnessList.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteBuisness.Designer.cs" />
+        <option value="$PROJECT_DIR$/AddLocation.Designer.cs" />
+        <option value="$PROJECT_DIR$/DeleteLocation.Designer.cs" />
+        <option value="$PROJECT_DIR$/ChangePassword.Designer.cs" />
+        <option value="$PROJECT_DIR$/AddNegocio.Designer.cs" />
+        <option value="$PROJECT_DIR$/CreateUser.cs" />
+        <option value="$PROJECT_DIR$/BuisnessList.cs" />
+        <option value="$PROJECT_DIR$/PrincipalForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/BuisnessDAO.cs" />
+        <option value="$PROJECT_DIR$/Login.cs" />
+        <option value="$PROJECT_DIR$/DeleteUser.cs" />
+        <option value="$PROJECT_DIR$/UserDAO.cs" />
+        <option value="$PROJECT_DIR$/ProductDAO.cs" />
+        <option value="$PROJECT_DIR$/CreateAccount.cs" />
+        <option value="$PROJECT_DIR$/Buisness.cs" />
+        <option value="$PROJECT_DIR$/Product.cs" />
+        <option value="$PROJECT_DIR$/AdressDAO.cs" />
+        <option value="$PROJECT_DIR$/Adress.cs" />
+        <option value="$PROJECT_DIR$/Order.cs" />
+        <option value="$PROJECT_DIR$/User.cs" />
+        <option value="$PROJECT_DIR$/ChangePassword.cs" />
+        <option value="$PROJECT_DIR$/AddNegocio.cs" />
+        <option value="$PROJECT_DIR$/AddLocation.cs" />
+        <option value="$PROJECT_DIR$/PrincipalForm.cs" />
+        <option value="$PROJECT_DIR$/OrderDAO.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cUws0MEKyltSHmDKWFFOfqHjTg" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SourceCode" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SourceCode.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a689aa1-3a54-4ec6-afe6-674c367ed4cf" name="Default Changelist" comment="" />
+      <created>1590596690265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590596690265</updated>
+      <workItem from="1590596701870" duration="19001000" />
+      <workItem from="1590618396785" duration="605000" />
+      <workItem from="1590619466104" duration="112000" />
+      <workItem from="1590619620446" duration="2917000" />
+      <workItem from="1590622632011" duration="5830000" />
+      <workItem from="1590628734919" duration="4268000" />
+      <workItem from="1590633103080" duration="371000" />
+      <workItem from="1590633540266" duration="4550000" />
+      <workItem from="1590638395057" duration="202000" />
+      <workItem from="1590638638390" duration="14292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="842" y="464" key="Assembly removing confirmation dialog" timestamp="1590633738498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="842" y="464" key="Assembly removing confirmation dialog/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590633738498" />
+    <state width="938" height="214" key="GridCell.Tab.0.bottom" timestamp="1590653251616">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590653251616" />
+    <state width="938" height="214" key="GridCell.Tab.0.center" timestamp="1590653251615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="214" key="GridCell.Tab.0.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590653251615" />
+    <state width="938" height="214" key="GridCell.Tab.0.left" timestamp="1590653251614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="214" key="GridCell.Tab.0.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590653251614" />
+    <state width="938" height="214" key="GridCell.Tab.0.right" timestamp="1590653251615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="214" key="GridCell.Tab.0.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590653251615" />
+    <state width="938" height="186" key="GridCell.Tab.1.bottom" timestamp="1590648632521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632521" />
+    <state width="938" height="186" key="GridCell.Tab.1.center" timestamp="1590648632520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.1.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632520" />
+    <state width="938" height="186" key="GridCell.Tab.1.left" timestamp="1590648632520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.1.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632520" />
+    <state width="938" height="186" key="GridCell.Tab.1.right" timestamp="1590648632520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.1.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632520" />
+    <state width="938" height="186" key="GridCell.Tab.2.bottom" timestamp="1590648632521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632521" />
+    <state width="938" height="186" key="GridCell.Tab.2.center" timestamp="1590648632521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.2.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632521" />
+    <state width="938" height="186" key="GridCell.Tab.2.left" timestamp="1590648632521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.2.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632521" />
+    <state width="938" height="186" key="GridCell.Tab.2.right" timestamp="1590648632521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.2.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632521" />
+    <state width="938" height="186" key="GridCell.Tab.3.bottom" timestamp="1590648632523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632523" />
+    <state width="938" height="186" key="GridCell.Tab.3.center" timestamp="1590648632522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.3.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632522" />
+    <state width="938" height="186" key="GridCell.Tab.3.left" timestamp="1590648632522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.3.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632522" />
+    <state width="938" height="186" key="GridCell.Tab.3.right" timestamp="1590648632522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.3.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632522" />
+    <state width="938" height="186" key="GridCell.Tab.4.bottom" timestamp="1590648632524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.4.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632524" />
+    <state width="938" height="186" key="GridCell.Tab.4.center" timestamp="1590648632523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.4.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632523" />
+    <state width="938" height="186" key="GridCell.Tab.4.left" timestamp="1590648632523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.4.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632523" />
+    <state width="938" height="186" key="GridCell.Tab.4.right" timestamp="1590648632524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="186" key="GridCell.Tab.4.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590648632524" />
+    <state x="670" y="219" key="RiderGenerateDialog" timestamp="1590610694739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="670" y="219" key="RiderGenerateDialog/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590610694739" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1590611811046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590611811046" />
+  </component>
+</project>
