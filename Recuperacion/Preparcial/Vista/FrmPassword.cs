@@ -14,6 +14,7 @@ namespace Preparcial.Vista
 {
     public partial class FrmPassword : Form
     {
+        //Correction: From borderStyle changed to FixedSingle also Maximize and Minimize box changed to false
         public FrmPassword()
         {
             InitializeComponent();
@@ -29,9 +30,11 @@ ActualizarControlers();
 
 private void ActualizarControlers()
 {
+    //Correction: Datasoruce at the end
 comboBox1.ValueMember = "Contrasena";
-comboBox1.DataSource = ControladorUsuario.GetUsuarios();
 comboBox1.DisplayMember = "NombreUsuario";
+comboBox1.DataSource = ControladorUsuario.GetUsuarios();
+
 }
 
 private void Button1_Click(object sender, EventArgs e)

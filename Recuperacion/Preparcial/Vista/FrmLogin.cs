@@ -9,6 +9,7 @@ namespace Preparcial
 {
     public partial class FrmLogin : Form
     {
+        //Correction: From borderStyle changed to FixedSingle also Maximize and Minimize box changed to false
         public FrmLogin()
         {
             InitializeComponent();

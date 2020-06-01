@@ -10,6 +10,7 @@ namespace Preparcial.Vista
     {
         private Usuario u;
 
+        //Correction: From borderStyle changed to FixedSingle also Maximize and Minimize box changed to false
         public FrmMain(Usuario u)
         {
             InitializeComponent();
