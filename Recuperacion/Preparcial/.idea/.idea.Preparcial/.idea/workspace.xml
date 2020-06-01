@@ -1,34 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdc56dc2-a1df-4d19-ba53-4f1669947966" name="Default Changelist" comment="" />
+    <list default="true" id="cdc56dc2-a1df-4d19-ba53-4f1669947966" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Preparcial/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Preparcial/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Preparcial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Preparcial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controlador/ControladorInventario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador/ControladorInventario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controlador/ControladorPedido.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador/ControladorPedido.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controlador/ControladorUsuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controlador/ControladorUsuario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modelo/Inventario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Modelo/Inventario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vista/FrmLogin.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vista/FrmLogin.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vista/FrmMain.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vista/FrmMain.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vista/FrmMain.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vista/FrmMain.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Preparcial.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Preparcial.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Preparcial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Preparcial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Preparcial.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Preparcial.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Preparcial.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Preparcial.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Preparcial.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Preparcial.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Preparcial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Preparcial.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Controlador/ControladorUsuario.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Controlador/ControladorPedido.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/Pedido.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Modelo/Inventario.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vista/FrmLogin.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Vista/FrmMain.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Vista/FrmPassword.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Controlador/ControladorInventario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controlador/ControladorUsuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/Pedido.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Controlador/ConexionBD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controlador/ControladorInventario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/Inventario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controlador/ControladorPedido.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/FrmLogin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/FrmMain.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Controlador/ConexionBD.cs" />
         <option value="$PROJECT_DIR$/Vista/FrmLogin.cs" />
+        <option value="$PROJECT_DIR$/Controlador/ControladorPedido.cs" />
+        <option value="$PROJECT_DIR$/Controlador/ControladorUsuario.cs" />
+        <option value="$PROJECT_DIR$/Controlador/ControladorInventario.cs" />
+        <option value="$PROJECT_DIR$/Modelo/Inventario.cs" />
+        <option value="$PROJECT_DIR$/Vista/FrmMain.cs" />
+        <option value="$PROJECT_DIR$/Vista/FrmPassword.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1ceOKYfJEM34zB7Pk0ECPJK6Owx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +64,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -71,30 +98,32 @@
       <option name="presentableId" value="Default" />
       <updated>1590885540216</updated>
       <workItem from="1590885560528" duration="720000" />
+      <workItem from="1590886563134" duration="2175000" />
+      <workItem from="1590962292568" duration="5715000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="WindowStateProjectService">
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1590886139277">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1590971158194">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590886139277" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1590886139276">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590971158194" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1590971158193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590886139276" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1590886139276">
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590971158193" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1590971158193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590886139276" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1590886139277">
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590971158193" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1590971158193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590886139277" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.175.1600.860@0.0.1920.1040" timestamp="1590971158193" />
   </component>
 </project>

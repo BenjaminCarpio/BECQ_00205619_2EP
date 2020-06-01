@@ -18,8 +18,11 @@ namespace Preparcial.Vista
 
         private void bttnCreateUser_Click(object sender, EventArgs e)
         {
-            if (!txtNewUser.Text.Equals(""))
+            //Correction: Remove ! symbol, New messageBox for condition and else added
+            if (txtNewUser.Text.Equals(""))
             {
+                MessageBox.Show("No se permiten campos vacios.");
+            }else{
                 ControladorUsuario.CrearUsuario(txtNewUser.Text);
                 ActualizarCrearUsuario();
             }
@@ -50,9 +53,10 @@ namespace Preparcial.Vista
 
         private void bttnAddInventary_Click(object sender, EventArgs e)
         {
-            if (txtProductNameInventary.Text.Equals("") &&
-                txtDescriptionInventary.Text.Equals("") &&
-                txtPriceInventary.Text.Equals("") &&
+            //Correction: && symbols changed to ||
+            if (txtProductNameInventary.Text.Equals("") ||
+                txtDescriptionInventary.Text.Equals("") ||
+                txtPriceInventary.Text.Equals("") ||
                 txtStockInventary.Text.Equals(""))
                 MessageBox.Show("No puede dejar campos vacios");
             else
@@ -77,7 +81,9 @@ namespace Preparcial.Vista
 
         private void bttnUpdateStockInventary_Click(object sender, EventArgs e)
         {
-            if (txtUpdateStockIdInventary.Text.Equals("") && txtUpdateStockInventary.Text.Equals(""))
+            //Correction: "Eliminar producto" changed to "Actualizar stock" in designer view
+            //Correction: && symbols changed to ||
+            if (txtUpdateStockIdInventary.Text.Equals("") || txtUpdateStockInventary.Text.Equals(""))
                 MessageBox.Show("No puede dejar campos vacios");
             else
             {
@@ -88,6 +94,8 @@ namespace Preparcial.Vista
 
         private void bttnMakeOrder_Click(object sender, EventArgs e)
         {
+            //Aqui se podria verificar el stock del producto para que no sea posible pedir una cantidad mayor pero para ello
+            //habria que agregar una consulta adicional y siguiendo las indicaciones eso no se debe hacer, pero si lo vi xd
             if (txtMakeOrderQuantity.Text.Equals(""))
                 MessageBox.Show("No puede dejar campos vacios");
             else
@@ -110,8 +118,8 @@ namespace Preparcial.Vista
 
             else if (tabControl1.SelectedTab.Name.Equals("viewOrdersTab") && u.Admin)
                 ActualizarOrdenes();
-            
-            else
+            //Correction: If selected tab equals general, dont show message box
+            else if (!tabControl1.SelectedTab.Name.Equals("generalTab"))
             {
                 MessageBox.Show("No tiene permisos para ver esta pestana");
                 tabControl1.SelectedTab = tabControl1.TabPages[0];
